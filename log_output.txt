@@ -1,0 +1,35 @@
+[서가영] Fri May 9 11:21:39 2025 +0900 [C135421 최원석] Use Case Description 추가 c4300f8
+[서가영] Fri May 9 11:17:38 2025 +0900 [C011099_서영욱] 로그인-회원가입 / 요금조회 / 반납 및 결제 descriptions 작성 baafdef
+[17air] Fri May 9 09:55:24 2025 +0900  최원석 - Use Case Description 및 다이어그램 추가 e9c4ef7
+[DESKTOP-DQN8BQ4\golje] Fri May 9 03:05:20 2025 +0900 [C011099_서영욱] use case description incoding 변경 d9172f2
+[서가영] Fri May 9 00:38:32 2025 +0900 [C111081_서가영] 회원-대여소 검색 / 대여소 상세 조회 / 자전거 예약 및 대기 descriptions 작성 761b376
+[caminobelllo] Fri May 9 00:37:06 2025 +0900 [C111081_서가영] 회원-대여소 검색 / 대여소 상세 조회 / 자전거 예약 및 대기 descriptions 작성 b0e7390
+[서가영] Fri May 9 00:34:22 2025 +0900 [B931057 김정윤] 회원-자전거 Use case description 작성 1a0aaf0
+[JungYoon] Wed May 7 22:50:51 2025 +0900 [B931057 김정윤] 회원-자전거 Use case description 작성 4871e4b
+[서가영] Wed May 7 22:16:09 2025 +0900 [C011099 서영욱] use case description 작성 e86037d
+[DESKTOP-DQN8BQ4\golje] Wed May 7 13:55:59 2025 +0900 [C011099_서영욱] use case descriptions 작성 2be9454
+[000uk] Wed May 7 13:53:27 2025 +0900 Delete use_case_descriptions/UseCaseDescriptions_서영욱.md 0493122
+[caminobelllo] Wed May 7 11:24:11 2025 +0900 Rename: 파일 이동 4146416
+[caminobelllo] Wed May 7 11:22:25 2025 +0900 Rename: 폴더명 통일 및 폴더 구조 변경(descriptions) 4860902
+[caminobelllo] Wed May 7 11:22:04 2025 +0900 Rename: 폴더명 통일 및 폴더 구조 변경(diagrams) 9755a7b
+[caminobelllo] Wed May 7 11:21:39 2025 +0900 Rename: 폴더명 통일 및 폴더 구조 변경 ae03204
+[서가영] Wed May 7 11:11:30 2025 +0900 [C135421 최원석] 관리자 관련 usecase, requirement list 작성 b7ce19f
+[서가영] Tue May 6 16:08:24 2025 +0900 [C111081_서가영] requirements list & use case diagram 작성 9619e4b
+[caminobelllo] Tue May 6 16:07:22 2025 +0900 [C111081_서가영] Use Case Diagram 작성 a0adf25
+[caminobelllo] Tue May 6 16:04:53 2025 +0900 [C111081_서가영] 대여소 및 자전거 관련 requirement list 추가 617a57a
+[17air] Tue May 6 16:03:18 2025 +0900 [C135421 최원석] 관리자 관련 requirement list, usecase diagram 작성 fbbe758
+[17air] Tue May 6 16:00:06 2025 +0900 Delete 관리자.mdj 91b0c81
+[17air] Tue May 6 15:51:37 2025 +0900 Create 관리자.mdj 1781afa
+[서가영] Tue May 6 15:46:22 2025 +0900 [B931057 김정윤] 회원 - 자전거 requirement list, usecase diagram 작성 4812286
+[서가영] Tue May 6 15:46:08 2025 +0900 [C011099 서영욱] requirement list, use case diagram 작성 edb9843
+[JungYoon] Mon May 5 21:59:43 2025 +0900 [B931057_김정윤] 회원-자전거 Requirement  list 작성 9dbe696
+[JungYoon] Sun May 4 21:23:18 2025 +0900 [B931057_김정윤] 회원-자전거 관련 유스케이스 다이어그램 작성 0975bdf
+[DESKTOP-DQN8BQ4\golje] Sun May 4 05:38:49 2025 +0900 [C011099_서영욱] requirement list 수정(관리자 로그인) cb1c7fc
+[DESKTOP-DQN8BQ4\golje] Sun May 4 05:25:25 2025 +0900 [C011099_서영욱] use case descriptions 추가(양식) 1cf9ee9
+[DESKTOP-DQN8BQ4\golje] Sun May 4 05:10:06 2025 +0900 [C011099_서영욱] requirement list 수정(양식) e3faff6
+[DESKTOP-DQN8BQ4\golje] Sun May 4 04:58:50 2025 +0900 [C011099_서영욱] requirement list 추가(요금조회, 이용내역 조회) da22716
+[DESKTOP-DQN8BQ4\golje] Sun May 4 04:57:57 2025 +0900 [C011099_서영욱] use case diagram 수정(로그아웃 추가) 88de6a6
+[DESKTOP-DQN8BQ4\golje] Sun May 4 04:56:54 2025 +0900 [C011099_서영욱] requirement list 작성(회원가입, 로그인, 로그아웃, 회원탈퇴) 41626b0
+[DESKTOP-DQN8BQ4\golje] Sun May 4 04:55:48 2025 +0900 [C011099_서영욱] use case diagram 회원가입 수정 ab8fe62
+[DESKTOP-DQN8BQ4\golje] Sun May 4 04:54:26 2025 +0900 [C011099_서영욱] use case diagram 작성 ba55b41
+[caminobelllo] Thu May 1 14:03:36 2025 +0900 [C111081_서가영] repository 세팅 5acda59
